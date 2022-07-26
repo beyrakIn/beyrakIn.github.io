@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hack on Beyrak's Blog</title><link>https://beyrakin.github.io/tags/hack/</link><description>Recent content in hack on Beyrak's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Beyrak A.</copyright><lastBuildDate>Tue, 26 Jul 2022 01:24:40 +0400</lastBuildDate><atom:link href="https://beyrakin.github.io/tags/hack/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://beyrakin.github.io/posts/my-first-post/</link><pubDate>Tue, 26 Jul 2022 01:24:40 +0400</pubDate><guid>https://beyrakin.github.io/posts/my-first-post/</guid><description>Hello guys that&amp;rsquo;s my first blog. Have fun) You can visit my Blog
-ls -&amp;gt; list
-drwxr-xr-x 3 beyrak beyrak 4.0K Jul 12 00:28 books -rw-r--r-- 1 beyrak beyrak 346K Mar 13 2019 cheatsheet -rwxr-xr-x 1 beyrak beyrak 3.0M Jul 25 01:05 pspy64 -rwxr-xr-x 1 beyrak beyrak 5.4K Jun 30 13:37 shell.phtml drwxr-xr-x 2 beyrak beyrak 4.0K Jul 17 20:13 shodan drwxr-xr-x 3 beyrak beyrak 4.0K Jul 25 17:35 thm -rw-r--r-- 1 beyrak beyrak 45K Jul 11 21:27 Untitled.</description><content>&lt;h2 id="hello-guys-thats-my-first-blog-have-fun">Hello guys that&amp;rsquo;s my first blog. Have fun)&lt;/h2>
-&lt;p>&lt;img src="https://hugo-hello-friend.vercel.app/img/hello.jpg" alt="Img">&lt;/p>
-&lt;p>You can visit my &lt;a href="https://beyrak.me">Blog&lt;/a>&lt;/p>
-&lt;p>&lt;code>ls&lt;/code> -&amp;gt; &lt;em>list&lt;/em>&lt;/p>
-&lt;pre tabindex="0">&lt;code>drwxr-xr-x 3 beyrak beyrak 4.0K Jul 12 00:28 books
--rw-r--r-- 1 beyrak beyrak 346K Mar 13 2019 cheatsheet
--rwxr-xr-x 1 beyrak beyrak 3.0M Jul 25 01:05 pspy64
--rwxr-xr-x 1 beyrak beyrak 5.4K Jun 30 13:37 shell.phtml
-drwxr-xr-x 2 beyrak beyrak 4.0K Jul 17 20:13 shodan
-drwxr-xr-x 3 beyrak beyrak 4.0K Jul 25 17:35 thm
--rw-r--r-- 1 beyrak beyrak 45K Jul 11 21:27 Untitled.png
-&lt;/code>&lt;/pre></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hack on Beyrak's Blog</title><link>https://beyrakin.github.io/tags/hack/</link><description>Recent content in hack on Beyrak's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Beyrak A.</copyright><lastBuildDate>Tue, 26 Jul 2022 23:28:37 +0400</lastBuildDate><atom:link href="https://beyrakin.github.io/tags/hack/index.xml" rel="self" type="application/rss+xml"/><item><title>Jobfier-CTF walkthrough | TryHackMe</title><link>https://beyrakin.github.io/posts/2022/jobfierctf/</link><pubDate>Tue, 26 Jul 2022 23:28:37 +0400</pubDate><guid>https://beyrakin.github.io/posts/2022/jobfierctf/</guid><description>Jobfier-CTF walkthrough My friend sent me This LinkedIn post. Which is Jobfier&amp;rsquo;s team had prepared this task to find cyber-security professionals.</description><content>&lt;h1 id="jobfier-ctf-walkthrough">Jobfier-CTF walkthrough&lt;/h1>
+&lt;p>My friend sent me &lt;a href="https://www.linkedin.com/posts/tfuad_m%C9%99n%C9%99m-m%C9%99n%C9%99m-dey%C9%99n-kibert%C9%99hl%C3%BCk%C9%99sizlik-%C9%99jdahalar%C4%B1-activity-6953319528546099200-1gCw?utm_source=linkedin_share&amp;amp;utm_medium=member_desktop_web">&lt;em>&lt;strong>This&lt;/strong>&lt;/em>&lt;/a> LinkedIn post.
+Which is &lt;strong>Jobfier&amp;rsquo;s&lt;/strong> team had prepared this &lt;a href="https://tryhackme.com/room/jobfierctf">&lt;strong>task&lt;/strong>&lt;/a> to find cyber-security professionals.&lt;/p>
+&lt;p>&lt;img src="https://beyrakin.github.io/posts/2022/images/jobfier-cover.png" alt="jobfier-cover">&lt;/p></content></item></channel></rss>
