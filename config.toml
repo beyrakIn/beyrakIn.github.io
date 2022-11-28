@@ -30,3 +30,9 @@ theme = 'cactus'
 # Cactus theme
   colortheme = "dark"
 
+[menu]
+    [[menu.main]]
+    identifier = 'home'
+    name = 'Home Page'
+    pre = "<i class='fa fa-heart'>salam</i>"
+    url = '/'
