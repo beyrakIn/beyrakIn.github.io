@@ -1,41 +1,30 @@
 +++
-title = "About Me"
+title = "Who am I?"
 date = "2022-07-26T13:53:05+04:00"
 author = "Beyrak Asgarzade"
 authorTwitter = "" #do not include @
-cover = "/posts/me/land.jpg"
-tags = ["whoami", "id", "who" ]
-keywords = ["aboutme", "beyrak"]
+cover = ""
+tags = ["whoami", "random"]
+keywords = ["beyrak", "Beyrək Əsgərzadə" , "Beyrak Asgarzade" ]
 description = "I, me and myself"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 +++
 
 # Who am I?
 
-- The guy who wants to be tech God.
+Hi👋, I'm Beyrak, and I am a CS student. (CS looks so cool both as a Computer Science and as a Cyber security :D)
 
-Hi👋, my name is Beyrak, and I am a CS student at Baku State University.
-I love to be in the technology industry because technology is developing every day, faster than the previous day. 
-Hence, Cyber-security is an inevitable part of this sector. I’m very interested in Cyber-security and have been learning about it for 2 years.
-Now I can say that cyber-security has become part of my life. 
-In addition, I love Linux, coding, and anything else about technology!
 
-# Skills ⚡
+# Interests
 
-- Cyber-Security -> Penetration testing | BurpSuit, Nmap, Metasploit
-- Digital Forensic -> FTK Imager | Volatility
-- Application Security -> Mobile/Web Fundamentals | HTML/JavaScript (Front&Backend knowledge)
-- Programming | Scripting -> Golang | Shell Scripting
-- Binary Exploitation -> Assembler Elementary
-- Basic Malware Analysis -> Static | Dynamic
 
 # Social
 
-+ <https://tryhackme.com/p/beyraklnc>
-+ <https://github.com/beyrakIn>
 + <https://www.linkedin.com/in/beyrak/>
++ <https://github.com/beyrakIn>
++ <https://tryhackme.com/p/beyraklnc>
 + <https://beyrak.me/>
 + <ba@beyrak.me>
 _________
