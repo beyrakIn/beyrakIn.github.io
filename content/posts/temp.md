@@ -1,7 +1,7 @@
 ---
 title: "[En] What is ISO 27001?"
 date: 2022-11-28T21:51:47+04:00
-draft: true
+draft: false
 
 ---
 
