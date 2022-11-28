@@ -2,12 +2,16 @@ baseURL = 'https://beyrakin.github.io'
 languageCode = 'en-us'
 title = "Beyrak's Blog"
 theme = 'cactus'
+enableRobotsTXT = true
+sectionPagesMenu = "main"
+
 
 
 [params]
-  description = "Beyrak's Blog"
-  author = "Beyrak"
-  keywords = ["blog", "beyrak", "beyrakin", "beyrak's blog", "Beyrak Asgarzade"]
+    description = "Beyrak's Blog"
+    author = "Beyrak"
+    keywords = ["blog", "beyrak", "beyrakin", "beyrak's blog", "Beyrak Asgarzade"]
+    staticDir = ['static', 'images']
 
 # Paper theme
   color = 'gray'                 # linen, wheat, gray, light
@@ -36,3 +40,8 @@ theme = 'cactus'
     name = 'Home Page'
     pre = "<i class='fa fa-heart'>salam</i>"
     url = '/'
+
+[sitemap]
+    changefreq = 'weekly'
+    filename = 'sitemap.xml'
+    priority = 0.5
