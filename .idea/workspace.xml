@@ -7,7 +7,6 @@
     <list default="true" id="20e396cd-3a27-42da-862e-63d909716ee8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/gh-pages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/gh-pages.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/static.yml.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/about-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/about-me.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/temp.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/temp.md" afterDir="false" />
     </list>

@@ -226,69 +226,177 @@ The annex D (informative) section of ISO 27001 provides a list of the terms and 
 
 # [Az] ISO 27001 nədir?
 
-ISO 27001, məlumat texnologiyaları və məlumat texnologiyaları üzrə təhlükəsizlik texnikaları — Məlumat texnologiyaları üzrə təhlükəsizlik idarəetmə sistemi — Tələblər, ISO, Cenevre, İsveçrə, 2013.
 
-# ISO 27001'in konteksti
 
-ISO 27001 10 bölmədən ibarətdir:
+# ISO 27001 nədir?
+
+ISO 27001 İnformasiya Təhlükəsizliyi İdarəetmə Sistemi (ISMS) üçün tələbləri müəyyən edən beynəlxalq standartdır. ISMS, təşkilatın informasiya risklərinin idarə edilməsi proseslərində iştirak edən bütün hüquqi, fiziki və texniki nəzarətləri özündə cəmləşdirən siyasət və prosedurlar çərçivəsidir.
+
+# ISO 27001-in məzmunu
+
+ISO 27001 10 hissəyə bölünür:
 
 1. Giriş
-2. əhatə dairəsi
+2. Əhatə dairəsi
 3. Terminlər və təriflər
-4. Təşkilat konteksti
-5. Liderlik
+4. Təşkilatın konteksti
+5. Rəhbərlik
 6. Planlaşdırma
 7. Dəstək
 8. Əməliyyat
 9. Performansın qiymətləndirilməsi
-10. İdarəetmə sisteminin inkişafı
+10. Təkmilləşdirmə
 
 # Giriş
 
-ISO 27001 giriş bölməsində ISO 27001-nin məqsədi və tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in tətbiqi standart və onun məqsədi haqqında ümumi məlumat verir. O, həmçinin ISO 27001 və digər standartlar arasındakı əlaqəni izah edir.
 
 # Əhatə dairəsi
 
-ISO 27001 əhatə dairəsi bölməsində ISO 27001-nin tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in əhatə dairəsi standartın tətbiqi imkanlarını müəyyən edir. O, standartdan istifadə edə biləcək təşkilatların növlərini və sertifikatlaşdırıla bilən informasiya təhlükəsizliyi idarəetmə sistemlərinin növlərini müəyyən edir.
 
 # Terminlər və təriflər
 
-ISO 27001 terminlər və təriflər bölməsində ISO 27001-də istifadə olunan terminlər və təriflər siyahısı verilir. ISO 27001-də istifadə olunan terminlər və təriflər siyahısı verilir.
+ISO 27001-in terminlər və təriflər bölməsi standartda istifadə olunan terminləri müəyyən edir. O, həmçinin digər standartlarda istifadə olunan və ISO 27001-ə uyğun olan terminlərin siyahısını təqdim edir.
 
-# Təşkilat konteksti
+# Təşkilatın konteksti
 
-ISO 27001 təşkilat konteksti bölməsində ISO 27001-nin tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in təşkilat bölməsinin konteksti təşkilatın informasiya təhlükəsizliyinə aid olan xarici və daxili məsələlərini təsvir edir. O, həmçinin təşkilatın informasiya təhlükəsizliyi siyasətini və məqsədlərini təsvir edir.
 
-# Liderlik
+# Rəhbərlik
 
-ISO 27001 liderlik bölməsində ISO 27001-nin tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in liderlik bölməsi təşkilatın informasiya təhlükəsizliyinə sadiqliyini təsvir edir. O, həmçinin təşkilatın üst rəhbərliyinin rollarını və məsuliyyətlərini təsvir edir.
 
 # Planlaşdırma
 
-ISO 27001 planlaşdırma bölməsində ISO 27001-nin tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in planlaşdırma bölməsi təşkilatın informasiya təhlükəsizliyi risklərinin idarə edilməsi proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi siyasətinin, məqsədlərin və proqramın yaradılması proseslərini təsvir edir.
 
 # Dəstək
 
-ISO 27001 dəstək bölməsində ISO 27001-nin tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in dəstək bölməsi informasiya təhlükəsizliyi idarəetmə sistemini tətbiq etmək və saxlamaq üçün lazım olan resursları təsvir edir. O, həmçinin bu resursların əldə edilməsi və idarə olunması proseslərini təsvir edir.
 
 # Əməliyyat
 
-ISO 27001 əməliyyat bölməsində ISO 27001-nin tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in əməliyyat bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin tətbiqi və saxlanması proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi idarəetmə sisteminin fəaliyyətinin monitorinqi və ölçülməsi proseslərini təsvir edir.
 
 # Performansın qiymətləndirilməsi
 
-ISO 27001 performansın qiymətləndirilməsi bölməsində ISO 27001-nin tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in performansın qiymətləndirilməsi bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin fəaliyyətinin monitorinqi, ölçülməsi, təhlili və qiymətləndirilməsi proseslərini təsvir edir. O, həmçinin təkmilləşdirmə imkanlarını müəyyən etmək üçün prosesləri təsvir edir.
 
-# İdarəetmə sisteminin inkişafı
+# Təkmilləşdirmə
 
-ISO 27001 idarəetmə sisteminin inkişafı bölməsində ISO 27001-nin tətbiq sahələri təsvir edilir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir.
+ISO 27001-in təkmilləşdirmə bölməsi düzəldici və qabaqlayıcı tədbirlərin həyata keçirilməsi proseslərini təsvir edir. O, həmçinin bu tədbirlərin effektivliyinin qiymətləndirilməsi proseslərini təsvir edir.
 
-# Hər bölmənin təsviri
+# ISO 27001-in hər bir hissəsinin izahı
 
-## Giriş (normativ)
+## Giriş
 
-ISO 27001 standartının tətbiqi standartın icmalını və məqsədlərini ehtiva edir. ISO 27001 ilə digər standartlar arasındakı əlaqəni də izah edir. ISO 27001 standartının tətbiqi 3 hissəyə bölünür: məqsəd, əhatə dairəsi və digər standartlarla əlaqə.
+ISO 27001-in tətbiqi standart və onun məqsədi haqqında ümumi məlumat verir. O, həmçinin ISO 27001 və digər standartlar arasındakı əlaqəni izah edir. ISO 27001-in tətbiqi 3 hissəyə bölünür: məqsəd, əhatə dairəsi və digər standartlarla əlaqə.
 
 ### Məqsəd
+ISO 27001-in məqsədi təşkilat kontekstində informasiya təhlükəsizliyi idarəetmə sisteminin yaradılması, həyata keçirilməsi, saxlanılması və davamlı olaraq təkmilləşdirilməsi üçün çərçivə təmin etməkdir.
 
-... Davamı olacaq ...
+### Əhatə dairəsi
+ISO 27001-in əhatə dairəsi standartın tətbiqi imkanlarını müəyyən edir. O, standartdan istifadə edə biləcək təşkilatların növlərini və sertifikatlaşdırıla bilən informasiya təhlükəsizliyi idarəetmə sistemlərinin növlərini müəyyən edir.
+
+### Digər standartlarla əlaqə
+ISO 27001-in digər standartlarla əlaqəsi ISO 27001 və digər standartlar arasındakı əlaqəni izah edir. O, həmçinin ISO 27001-in digər standartların tələblərinə cavab vermək üçün necə istifadə oluna biləcəyini izah edir.
+
+## Əhatə dairəsi
+ISO 27001-in əhatə dairəsi standartın tətbiqi imkanlarını müəyyən edir. O, standartdan istifadə edə biləcək təşkilatların növlərini və sertifikatlaşdırıla bilən informasiya təhlükəsizliyi idarəetmə sistemlərinin növlərini müəyyən edir. ISO 27001-in əhatə dairəsi 3 hissəyə bölünür: tətbiq oluna bilmə, sertifikatlaşdırma və uyğunluğun qiymətləndirilməsi.
+
+### Uyğunluq
+ISO 27001-in tətbiqi bölməsi standartdan istifadə edə biləcək təşkilatların növlərini müəyyən edir. O, həmçinin sertifikatlaşdırıla bilən informasiya təhlükəsizliyi idarəetmə sistemlərinin növlərini müəyyən edir.
+
+### Sertifikatlaşdırma
+ISO 27001-in sertifikatlaşdırma bölməsi sertifikatlaşdırıla bilən informasiya təhlükəsizliyi idarəetmə sistemlərinin növlərini müəyyən edir. O, həmçinin informasiya təhlükəsizliyi idarəetmə sisteminin ISO 27001-ə uyğunluğunu qiymətləndirmək üçün istifadə edilə bilən uyğunluğun qiymətləndirilməsi növlərini müəyyən edir.
+
+### Uyğunluğun qiymətləndirilməsi
+ISO 27001-in uyğunluğun qiymətləndirilməsi bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin ISO 27001-ə uyğunluğunu qiymətləndirmək üçün istifadə edilə bilən uyğunluğun qiymətləndirilməsi növlərini müəyyən edir. O, həmçinin uyğunluğun qiymətləndirilməsini həyata keçirmək üçün istifadə edilə bilən sertifikatlaşdırma orqanlarının növlərini də müəyyən edir.
+
+## Terminlər və təriflər
+ISO 27001-in terminlər və təriflər bölməsi standartda istifadə olunan terminləri müəyyən edir. O, həmçinin digər standartlarda istifadə olunan və ISO 27001-ə uyğun olan terminlərin siyahısını təqdim edir. ISO 27001-in terminlər və təriflər bölməsi 2 hissəyə bölünür: terminlər və təriflər və digər standartlarda istifadə olunan terminlər.
+
+### Terminlər və təriflər
+ISO 27001-in terminlər və təriflər bölməsi standartda istifadə olunan terminləri müəyyən edir. O, həmçinin digər standartlarda istifadə olunan və ISO 27001-ə uyğun olan terminlərin siyahısını təqdim edir.
+
+### Digər standartlarda istifadə olunan terminlər
+ISO 27001-in digər standartlar bölməsində istifadə olunan terminlər digər standartlarda istifadə olunan və ISO 27001-ə uyğun olan terminlərin siyahısını təqdim edir. O, həmçinin digər standartlarda istifadə olunan və ISO 27001-ə aid olmayan terminlərin siyahısını təqdim edir.
+
+## Təşkilatın konteksti
+ISO 27001-in təşkilat bölməsinin konteksti təşkilatın informasiya təhlükəsizliyinə aid olan xarici və daxili məsələlərini təsvir edir. O, həmçinin təşkilatın informasiya təhlükəsizliyi siyasətini və məqsədlərini təsvir edir. ISO 27001-in təşkilat bölməsinin konteksti 3 hissəyə bölünür: təşkilatı və onun kontekstini anlamaq, informasiya təhlükəsizliyi idarəetmə sisteminin əhatə dairəsini və informasiya təhlükəsizliyi siyasətini və məqsədlərini müəyyən etmək.
+
+### Təşkilat və onun kontekstini başa düşmək
+ISO 27001-in təşkilat və onun kontekst bölməsi anlayışı təşkilatın informasiya təhlükəsizliyinə aid olan xarici və daxili məsələlərini təsvir edir. O, həmçinin təşkilatın informasiya təhlükəsizliyi siyasətini və məqsədlərini təsvir edir.
+
+### İnformasiya təhlükəsizliyi idarəetmə sisteminin əhatə dairəsinin müəyyən edilməsi
+ISO 27001-in İnformasiya Təhlükəsizliyi İdarəetmə Sistemi bölməsinin əhatə dairəsinin müəyyən edilməsi informasiya təhlükəsizliyi idarəetmə sisteminin əhatə dairəsinin müəyyən edilməsi proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi idarəetmə sisteminin sərhədlərinin müəyyən edilməsi proseslərini təsvir edir.
+
+### İnformasiya təhlükəsizliyi siyasəti və məqsədləri
+ISO 27001-in informasiya təhlükəsizliyi siyasəti və məqsədləri bölməsi informasiya təhlükəsizliyi siyasətinin və məqsədlərinin yaradılması proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi siyasətinin və məqsədlərin müvafiq maraqlı tərəflərə çatdırılması proseslərini təsvir edir.
+
+## Rəhbərlik
+ISO 27001-in liderlik bölməsi təşkilatın informasiya təhlükəsizliyinə sadiqliyini təsvir edir. O, həmçinin təşkilatın üst rəhbərliyinin rollarını və məsuliyyətlərini təsvir edir. ISO 27001-in liderlik bölməsi 2 hissəyə bölünür: informasiya təhlükəsizliyinə sadiqlik və rol və məsuliyyətlər.
+
+### İnformasiya təhlükəsizliyinə sadiqlik
+ISO 27001-in informasiya təhlükəsizliyi bölməsi üzrə öhdəlik təşkilatın informasiya təhlükəsizliyinə sadiqliyini təsvir edir. O, həmçinin informasiya təhlükəsizliyi idarəetmə sisteminin yaradılması, tətbiqi, saxlanması və davamlı olaraq təkmilləşdirilməsi proseslərini təsvir edir.
+
+### Rol və məsuliyyətlər
+ISO 27001-in rollar və məsuliyyətlər bölməsi təşkilatın üst rəhbərliyinin rol və məsuliyyətlərini təsvir edir. O, həmçinin bu rol və məsuliyyətlərin həvalə edilməsi, icazə verilməsi və ötürülməsi proseslərini təsvir edir.
+
+## Planlaşdırma
+ISO 27001-in planlaşdırma bölməsi təşkilatın informasiya təhlükəsizliyi risklərinin idarə edilməsi proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi siyasətinin, məqsədlərin və proqramın yaradılması proseslərini təsvir edir. ISO 27001-in planlaşdırma bölməsi 2 hissəyə bölünür: informasiya təhlükəsizliyi risklərinin idarə edilməsi və informasiya təhlükəsizliyi siyasəti, məqsədlər və proqram.
+
+### İnformasiya təhlükəsizliyi risklərinin idarə edilməsi
+ISO 27001-in informasiya təhlükəsizliyi risklərinin idarə edilməsi bölməsi təşkilatın informasiya təhlükəsizliyi risklərinin idarə edilməsi proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi risklərinin müəyyən edilməsi, təhlili, qiymətləndirilməsi, müalicəsi və monitorinqi proseslərini təsvir edir.
+
+### İnformasiya təhlükəsizliyi siyasəti, məqsədləri və proqramı
+ISO 27001-in informasiya təhlükəsizliyi siyasəti, məqsədləri və proqram bölməsi informasiya təhlükəsizliyi siyasətinin, məqsədlərinin və proqramının yaradılması proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi siyasətinin, məqsədlərin və proqramın müvafiq maraqlı tərəflərə çatdırılması proseslərini təsvir edir.
+
+## Dəstək
+ISO 27001-in dəstək bölməsi informasiya təhlükəsizliyi idarəetmə sistemini tətbiq etmək və saxlamaq üçün lazım olan resursları təsvir edir. O, həmçinin bu resursların əldə edilməsi və idarə olunması proseslərini təsvir edir. ISO 27001-in dəstək bölməsi 2 hissəyə bölünür: resurslar və resursların əldə edilməsi və idarə olunması.
+
+### Resurslar
+ISO 27001-in resurslar bölməsi informasiya təhlükəsizliyi idarəetmə sistemini tətbiq etmək və saxlamaq üçün lazım olan resursları təsvir edir. O, həmçinin bu resursların əldə edilməsi və idarə olunması proseslərini təsvir edir.
+
+### Resursların alınması və idarə edilməsi
+ISO 27001-in resursların əldə edilməsi və idarə olunması bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin tətbiqi və saxlanması üçün lazım olan resursların əldə edilməsi və idarə olunması proseslərini təsvir edir. O, həmçinin bu proseslərin effektivliyinin qiymətləndirilməsi proseslərini təsvir edir.
+
+## Əməliyyat
+ISO 27001-in əməliyyat bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin tətbiqi və saxlanması proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi idarəetmə sisteminin fəaliyyətinin monitorinqi və ölçülməsi proseslərini təsvir edir. ISO 27001-in əməliyyat bölməsi 2 hissəyə bölünür: informasiya təhlükəsizliyi idarəetmə sisteminin tətbiqi və saxlanması və informasiya təhlükəsizliyi idarəetmə sisteminin monitorinqi və ölçülməsi.
+
+### İnformasiya təhlükəsizliyi idarəetmə sisteminin tətbiqi və saxlanması
+ISO 27001-in informasiya təhlükəsizliyi idarəetmə sistemi bölməsinin tətbiqi və saxlanması informasiya təhlükəsizliyi idarəetmə sisteminin tətbiqi və saxlanması proseslərini təsvir edir. O, həmçinin bu proseslərin effektivliyinin qiymətləndirilməsi proseslərini təsvir edir.
+
+### İnformasiya təhlükəsizliyi idarəetmə sisteminin monitorinqi və ölçülməsi
+ISO 27001-in informasiya təhlükəsizliyi idarəetmə sisteminin monitorinqi və ölçülməsi bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin fəaliyyətinin monitorinqi və ölçülməsi proseslərini təsvir edir. O, həmçinin bu proseslərin effektivliyinin qiymətləndirilməsi proseslərini təsvir edir.
+
+## Performansın qiymətləndirilməsi
+ISO 27001-in fəaliyyətin qiymətləndirilməsi bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin fəaliyyətinin qiymətləndirilməsi proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi idarəetmə sisteminin ISO 27001 tələblərinə uyğun olub-olmadığını müəyyən etmək üçün prosesləri təsvir edir. ISO 27001-in fəaliyyətinin qiymətləndirilməsi bölməsi 2 hissəyə bölünür: informasiya təhlükəsizliyi idarəetmə sisteminin qiymətləndirilməsi və uyğunluğun müəyyən edilməsi.
+
+### İnformasiya təhlükəsizliyi idarəetmə sisteminin qiymətləndirilməsi
+ISO 27001-in informasiya təhlükəsizliyi idarəetmə sisteminin bölməsinin qiymətləndirilməsi informasiya təhlükəsizliyi idarəetmə sisteminin fəaliyyətinin qiymətləndirilməsi proseslərini təsvir edir. O, həmçinin informasiya təhlükəsizliyi idarəetmə sisteminin ISO 27001 tələblərinə uyğun olub-olmadığını müəyyən etmək üçün prosesləri təsvir edir.
+
+### Uyğunluğun müəyyən edilməsi
+ISO 27001-in uyğunluğun müəyyən edilməsi bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin ISO 27001 tələblərinə uyğun olub-olmadığını müəyyən etmək üçün prosesləri təsvir edir. O, həmçinin bu proseslərin effektivliyinin qiymətləndirilməsi proseslərini təsvir edir.
+
+## Təkmilləşdirmə
+ISO 27001-in təkmilləşdirmə bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin təkmilləşdirilməsi imkanlarının müəyyən edilməsi proseslərini təsvir edir. O, həmçinin bu təkmilləşdirmələrin həyata keçirilməsi proseslərini təsvir edir. ISO 27001-in təkmilləşdirmə bölməsi 2 hissəyə bölünür: təkmilləşdirmə imkanları və təkmilləşdirmələrin həyata keçirilməsi.
+
+### Təkmilləşdirmə imkanları
+ISO 27001-in təkmilləşdirmə imkanları bölməsi informasiya təhlükəsizliyi idarəetmə sisteminin təkmilləşdirilməsi imkanlarının müəyyən edilməsi proseslərini təsvir edir. O, həmçinin bu proseslərin effektivliyinin qiymətləndirilməsi proseslərini təsvir edir.
+
+### Təkmilləşdirmələrin həyata keçirilməsi
+ISO 27001-in təkmilləşdirmələrin həyata keçirilməsi bölməsi informasiya təhlükəsizliyi idarəetmə sistemində təkmilləşdirmələrin həyata keçirilməsi proseslərini təsvir edir. O, həmçinin bu proseslərin effektivliyinin qiymətləndirilməsi proseslərini təsvir edir.
+
+## Əlavə A (normativ)
+ISO 27001-in Əlavə A (normativ) bölməsi ISO 27001 tələblərinin siyahısını təqdim edir. O, həmçinin təşkilata aid olmayan ISO 27001 tələblərinin siyahısını təqdim edir.
+
+## Əlavə B (normativ)
+ISO 27001-in Əlavə B (normativ) bölməsi ISO 27001-də istifadə olunan termin və təriflərin siyahısını təqdim edir. O, həmçinin ISO 27001-də istifadə olunan və təşkilata aid edilməyən termin və təriflərin siyahısını təqdim edir.
+
+## Əlavə C (normativ)
+ISO 27001-in Əlavə C (normativ) bölməsi ISO 27001-də istinad edilən istinadların siyahısını təqdim edir.
+
+## Əlavə D (məlumat xarakterli)
+ISO 27001-in Əlavə D (məlumat xarakterli) bölməsi ISO 27001-də istifadə olunan və təşkilata aid edilməyən termin və təriflərin siyahısını təqdim edir.
