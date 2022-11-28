@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e396cd-3a27-42da-862e-63d909716ee8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/cactus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/paper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/reveal-hugo" afterDir="false" />
-    </list>
+    <list default="true" id="20e396cd-3a27-42da-862e-63d909716ee8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
