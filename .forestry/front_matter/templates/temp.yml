@@ -1,6 +1,7 @@
 ---
 label: Temp
-hide_body: true
+hide_body: false
+display_field: text
 fields:
 - name: text
   type: text
