@@ -1,4 +1,24 @@
 ---
 label: Temp
 hide_body: true
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text
+- name: select_date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Select date
+  default: now
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
