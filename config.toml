@@ -1,47 +1,65 @@
 baseURL = 'https://beyrakin.github.io'
 languageCode = 'en-us'
-title = "Beyrak's Blog"
+title = "CS | Beyrak"
 theme = 'cactus'
 enableRobotsTXT = true
 sectionPagesMenu = "main"
 
-
+# Cactus theme
 
 [params]
-    description = "Beyrak's Blog"
-    author = "Beyrak"
-    keywords = ["blog", "beyrak", "beyrakin", "beyrak's blog", "Beyrak Asgarzade"]
+    description = "I share my thoughts and experiences about cybersecurity, programming, and other stuff."
+    author = "Beyrak Asgarzade"
+    keywords = ["Hacker", "beyrak", "beyrakin", "beyrak's blog", "Beyrak Asgarzade"]
     staticDir = ['static', 'images']
+    colortheme = "dark"             # Cactus theme
+    showAllPostsOnHomePage = true
+    tocInline = false    # Content table
+    showProjectsList = true
+    projectsUrl = "https://github.com/beyrakin"
 
-# Paper theme
-  color = 'gray'                 # linen, wheat, gray, light
 
-  # header social icons
-  twitter = 'be7rak'     # twitter.com/YOUR_TWITTER_ID
-  github = 'beyrakIn'       # github.com/YOUR_GITHUB_ID
-  instagram = 'be7rak' # instagram.com/YOUR_INSTAGRAM_ID
-  rss = true                      # show rss icon with link
+# Social links
+    [[params.social]]
+    name = "github"
+    link = "https://github.com/beyrakIn"
 
-  # home page profile
-  avatar = 'https://pbs.twimg.com/profile_images/1580984251368996887/eAMDc48u_400x400.jpg'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
-  name = 'Beyrak'
-  bio = 'Cyber Security Researcher'
+    [[params.social]]
+    name = "email"
+    link = "ba@beyrak.me" # no need for "mailto:" at the start
 
-  # misc
-  disableHLJS = true              # disable requesting highlight.js
-  monoDarkIcon = true
+    [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/beyrak/"
 
-# Cactus theme
-  colortheme = "dark"
+
 
 [menu]
     [[menu.main]]
-    identifier = 'home'
-    name = 'Home Page'
-    pre = "<i class='fa fa-heart'>salam</i>"
-    url = '/'
+        name = "Homew"
+        url = "/"
+        weight = 1
 
 [sitemap]
     changefreq = 'weekly'
     filename = 'sitemap.xml'
     priority = 0.5
+
+
+## Paper theme
+#  color = 'gray'                 # linen, wheat, gray, light
+#
+#  # header social icons
+#  twitter = 'be7rak'     # twitter.com/YOUR_TWITTER_ID
+#  github = 'beyrakIn'       # github.com/YOUR_GITHUB_ID
+#  instagram = 'be7rak' # instagram.com/YOUR_INSTAGRAM_ID
+#  rss = true                      # show rss icon with link
+#
+#  # home page profile
+#  avatar = 'https://pbs.twimg.com/profile_images/1580984251368996887/eAMDc48u_400x400.jpg'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+#  name = 'Beyrak'
+#  bio = 'Cyber Security Researcher'
+#
+#  # misc
+#  disableHLJS = true              # disable requesting highlight.js
+#  monoDarkIcon = true
